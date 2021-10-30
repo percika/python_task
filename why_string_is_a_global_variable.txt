@@ -1,0 +1,1 @@
+From the datatype conversion activity, i observed that String variable could hold "int", "float", "boolean" values, whereas other datatype could not. One such example, I faced "invalid literal for int() with base 10: '10.23'" error when I tried converting string value "10.23" to integer. 
